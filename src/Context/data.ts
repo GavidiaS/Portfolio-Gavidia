@@ -131,6 +131,14 @@ export const projects: ProjectType[] = [
     image: "https://i.ibb.co/CJZV8Hh/desktop-mode.jpg",
     tech: ["React", "ReactContext", "TypeScript"]
   },
+  {
+    title: "ShopyNex - Platzi",
+    github: "https://github.com/GavidiaS/React-Tailwindcss",
+    descriptionEn: "This project was carried out after completing the React + Tailwind CSS course at Platzi. In this project, listed products are showcased, simulating an e-commerce webpage.",
+    descriptionEs: "Este proyecto se llevó a cabo después de finalizar el curso de React + Tailwind CSS en Platzi. En este proyecto se presentan productos listados y simula una página de comercio electrónico.",
+    image: "https://i.ibb.co/vjX5npB/ShopyNex.png",
+    tech: ["React", "ReactContext", "Tailwindcss"]
+  },
   // {
   //   title: "",
   //   github: "",
